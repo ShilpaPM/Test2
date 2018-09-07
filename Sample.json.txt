@@ -1,0 +1,13 @@
+{ 
+
+    "register-user-response": { 
+
+        "login-name": "johnsssmithsss@11980", 
+
+        "status": "ACTIVE", 
+
+        "pan": "4123456789012345" 
+
+    } 
+
+} 
